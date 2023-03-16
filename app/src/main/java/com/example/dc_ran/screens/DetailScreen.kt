@@ -2,9 +2,7 @@ package com.example.dc_ran.screens
 
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
-import androidx.lifecycle.ViewModel
 import androidx.navigation.NavController
-import com.example.dc_ran.cards.CardViewModel
 import com.example.dc_ran.ui.theme.DcranTheme
 import com.example.dc_ran.widgets.CustomPlayerView
 
