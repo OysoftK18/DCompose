@@ -1,7 +1,6 @@
 package com.example.dc_ran;
 
 import android.os.Bundle;
-import android.util.Log;
 import androidx.activity.ComponentActivity;
 import androidx.compose.runtime.Composable;
 import dagger.hilt.android.AndroidEntryPoint;
