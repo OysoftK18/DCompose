@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.dc_ran.app-mergeDebugResources-54:/values-my/values-my.xml",
+            "map": [
+                {
+                    "source": "/home/owen/.gradle/caches/transforms-3/a35afb689b8baf1f09f015769c78ea4c/transformed/core-1.8.0/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "1536",
+                        "endColumns": "100",
+                        "endOffsets": "1632"
+                    }
+                },
+                {
+                    "source": "/home/owen/.gradle/caches/transforms-3/267bfbbce56d4b51882ce43e40be6e38/transformed/jetified-play-services-basement-16.0.1/res/values-my/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "212",
+                        "endOffsets": "459"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "287",
+                        "endColumns": "212",
+                        "endOffsets": "495"
+                    }
+                },
+                {
+                    "source": "/home/owen/.gradle/caches/transforms-3/07aebf2e7e0dd8de3e9c7fe29ac3f4c1/transformed/jetified-ui-1.2.1/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,199,287,391,495,578,662,771,860,942,1008,1075,1162,1248,1323,1389",
+                        "endColumns": "93,87,103,103,82,83,108,88,81,65,66,86,85,74,65,125",
+                        "endOffsets": "194,282,386,490,573,657,766,855,937,1003,1070,1157,1243,1318,1384,1510"
+                    },
+                    "to": {
+                        "startLines": "2,3,5,6,7,8,9,10,11,12,13,14,15,16,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,199,500,604,708,791,875,984,1073,1155,1221,1288,1375,1461,1637,1703",
+                        "endColumns": "93,87,103,103,82,83,108,88,81,65,66,86,85,74,65,125",
+                        "endOffsets": "194,282,599,703,786,870,979,1068,1150,1216,1283,1370,1456,1531,1698,1824"
+                    }
+                }
+            ]
+        }
+    ]
+}
