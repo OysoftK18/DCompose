@@ -1,6 +1,7 @@
 package com.example.dc_ran.di
 
 import com.example.dc_ran.data.HeroesDao
+import com.example.dc_ran.repository.HeroesRepository
 import com.example.dc_ran.utils.Constants
 import dagger.Module
 import dagger.Provides
@@ -13,6 +14,10 @@ import javax.inject.Singleton
 @InstallIn(SingletonComponent::class)
 @Module
 object AppModule {
+
+    @Provides
+    @Singleton
+    fun providesHeroesRepository(heroesDao: HeroesDao) = HeroesRepository(heroesDao = heroesDao)
 
     @Provides
     @Singleton
