@@ -6,8 +6,6 @@ import javax.inject.Singleton
 
 @Singleton
 interface HeroesDao {
-
     @GET("Heroes.json")
     suspend fun getHeroes(): Heroes
-    
 }

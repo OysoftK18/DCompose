@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.dc_ran.app-mergeDebugResources-54:/values-zh-rHK/values-zh-rHK.xml",
+            "outputFile": "com.example.dc_ran.app-mergeDebugResources-56:/values-zh-rHK/values-zh-rHK.xml",
             "map": [
                 {
                     "source": "/home/owen/.gradle/caches/transforms-3/07aebf2e7e0dd8de3e9c7fe29ac3f4c1/transformed/jetified-ui-1.2.1/res/values-zh-rHK/values-zh-rHK.xml",

@@ -6,6 +6,8 @@ INJECTED from /home/owen/AndroidStudioProjects/dcran/app/src/main/AndroidManifes
 INJECTED from /home/owen/AndroidStudioProjects/dcran/app/src/main/AndroidManifest.xml:2:1-30:12
 MERGED from [androidx.room:room-ktx:2.5.0] /home/owen/.gradle/caches/transforms-3/01a4eb982bc732bc1745ed851b3823c9/transformed/jetified-room-ktx-2.5.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.room:room-runtime:2.5.0] /home/owen/.gradle/caches/transforms-3/d545fd067ce66b66913688f328bcc231/transformed/room-runtime-2.5.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /home/owen/.gradle/caches/transforms-3/91cd93ff86f508367a4ff82232eab8d6/transformed/jetified-hilt-navigation-compose-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /home/owen/.gradle/caches/transforms-3/e2767fcb73aa870d017052bc097412ec/transformed/jetified-hilt-navigation-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.dagger:hilt-android:2.44] /home/owen/.gradle/caches/transforms-3/853ef13f723a2b1d1a5d67b8ee7d0f2b/transformed/jetified-hilt-android-2.44/AndroidManifest.xml:16:1-19:12
 MERGED from [androidx.navigation:navigation-compose:2.5.3] /home/owen/.gradle/caches/transforms-3/158fde72f94d9ca7882b6f5e60057487/transformed/jetified-navigation-compose-2.5.3/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /home/owen/.gradle/caches/transforms-3/ea10d7c46584a88dfdf30369535e819c/transformed/jetified-lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:17:1-24:12
@@ -165,6 +167,10 @@ MERGED from [androidx.room:room-ktx:2.5.0] /home/owen/.gradle/caches/transforms-
 MERGED from [androidx.room:room-ktx:2.5.0] /home/owen/.gradle/caches/transforms-3/01a4eb982bc732bc1745ed851b3823c9/transformed/jetified-room-ktx-2.5.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.room:room-runtime:2.5.0] /home/owen/.gradle/caches/transforms-3/d545fd067ce66b66913688f328bcc231/transformed/room-runtime-2.5.0/AndroidManifest.xml:21:5-44
 MERGED from [androidx.room:room-runtime:2.5.0] /home/owen/.gradle/caches/transforms-3/d545fd067ce66b66913688f328bcc231/transformed/room-runtime-2.5.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /home/owen/.gradle/caches/transforms-3/91cd93ff86f508367a4ff82232eab8d6/transformed/jetified-hilt-navigation-compose-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /home/owen/.gradle/caches/transforms-3/91cd93ff86f508367a4ff82232eab8d6/transformed/jetified-hilt-navigation-compose-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /home/owen/.gradle/caches/transforms-3/e2767fcb73aa870d017052bc097412ec/transformed/jetified-hilt-navigation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /home/owen/.gradle/caches/transforms-3/e2767fcb73aa870d017052bc097412ec/transformed/jetified-hilt-navigation-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.dagger:hilt-android:2.44] /home/owen/.gradle/caches/transforms-3/853ef13f723a2b1d1a5d67b8ee7d0f2b/transformed/jetified-hilt-android-2.44/AndroidManifest.xml:18:3-42
 MERGED from [com.google.dagger:hilt-android:2.44] /home/owen/.gradle/caches/transforms-3/853ef13f723a2b1d1a5d67b8ee7d0f2b/transformed/jetified-hilt-android-2.44/AndroidManifest.xml:18:3-42
 MERGED from [androidx.navigation:navigation-compose:2.5.3] /home/owen/.gradle/caches/transforms-3/158fde72f94d9ca7882b6f5e60057487/transformed/jetified-navigation-compose-2.5.3/AndroidManifest.xml:20:5-22:41

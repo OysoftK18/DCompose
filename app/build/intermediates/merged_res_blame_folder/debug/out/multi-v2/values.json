@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.dc_ran.app-mergeDebugResources-54:/values/values.xml",
+            "outputFile": "com.example.dc_ran.app-mergeDebugResources-56:/values/values.xml",
             "map": [
                 {
                     "source": "/home/owen/.gradle/caches/transforms-3/5c9454f87f984459327408b3c09c0bc0/transformed/navigation-common-2.5.3/res/values/values.xml",
