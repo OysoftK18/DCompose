@@ -104,7 +104,7 @@
     {"name": "Starfire", "tier": "2", "url": "https://www.dcdeckbuilding.com/scans/Starfire%20TT%20MC.jpg"},
     {"name": "Starfire", "tier": "2", "url": "https://www.dcdeckbuilding.com/scans/Starfire%20MC%20TTG.jpg"},
     {"name": "Starfire [Crisis]", "tier": "2", "url": "https://www.dcdeckbuilding.com/scans/Starfire%20Crisis%20MC.jpg"},
-    {""name"": "Starfire [Crisis]", ""tier"": "1", ""url"": "https://www.dcdeckbuilding.com/scans/Crisis%20Starfire%20MC%20Crisis%204.jpg"},
+    {"name": "Starfire [Crisis]", "tier": "1", "url": "https://www.dcdeckbuilding.com/scans/Crisis%20Starfire%20MC%20Crisis%204.jpg"},
     {"name": "Stargirl", "tier": "3", "url": "https://www.dcdeckbuilding.com/scans/Stargirl%20MC.jpg"},
     {"name": "Superboy", "tier": "3", "url": "https://www.dcdeckbuilding.com/scans/Superboy%20MC.jpg"},
     {"name": "Superman", "tier": "4", "url": "https://www.dcdeckbuilding.com/scans/Superman%20MC.jpg"},
