@@ -1,4 +1,4 @@
-{"name": "Aquaman", "tier": "4", "url": "https://www.dcdeckbuilding.com/scans/Aquaman%20MC.jpg", "set": "Base set"},
+[{"name": "Aquaman", "tier": "4", "url": "https://www.dcdeckbuilding.com/scans/Aquaman%20MC.jpg", "set": "Base set"},
 {"name": "Batman", "tier": "3", "url": "https://www.dcdeckbuilding.com/scans/Batman%20MC.jpg", "set": "Base set"},
 {"name": "Cyborg", "tier": "4", "url": "https://www.dcdeckbuilding.com/scans/Cyborg%20MC.jpg", "set": "Base set"},
 {"name": "Green Lantern", "tier": "3", "url": "https://www.dcdeckbuilding.com/scans/Green%20Lantern%20MC.jpg", "set": "Base set"},
@@ -28,7 +28,8 @@
 {"name": "Red Tornado [Crisis]", "tier": "2", "url": "https://www.dcdeckbuilding.com/scans/Red%20Tornado%20Crisis%20MC.jpg", "set": "Crisis 2"},
 {"name": "Saint Walker", "tier": "3", "url": "https://www.dcdeckbuilding.com/scans/Saint%20Walker%20MC.jpg", "set": "Crisis 2"},
 {"name": "Star Sapphire", "tier": "1", "url": "https://www.dcdeckbuilding.com/scans/Star%20Sapphire%20MC.jpg", "set": "Crisis 2"},
-{"name": "Starfire [Crisis]", "tier": "2", "url": "https://www.dcdeckbuilding.com/scans/Starfire%20Crisis%20MC.jpg", "set": "Crisis 2"},{"name": "Bane [Crisis]", "tier": "2", "url": "https://www.dcdeckbuilding.com/scans/Bane%20Crisis%20MC.jpg", "set": "Crisis 3"},
+{"name": "Starfire [Crisis]", "tier": "2", "url": "https://www.dcdeckbuilding.com/scans/Starfire%20Crisis%20MC.jpg", "set": "Crisis 2"},
+{"name": "Bane [Crisis]", "tier": "2", "url": "https://www.dcdeckbuilding.com/scans/Bane%20Crisis%20MC.jpg", "set": "Crisis 3"},
 {"name": "Captain Boomerang", "tier": "3", "url": "https://www.dcdeckbuilding.com/scans/Captain%20Boomerang%20MC.jpg", "set": "Crisis 3"},
 {"name": "Cheetah", "tier": "3", "url": "https://www.dcdeckbuilding.com/scans/Cheetah%20MC.jpg", "set": "Crisis 3"},
 {"name": "Killer Frost", "tier": "3", "url": "https://www.dcdeckbuilding.com/scans/Killer%20Frost%20MC.jpg", "set": "Crisis 3"},
@@ -118,4 +119,4 @@
 {"name": "Cyborg", "tier": "2", "url": "https://www.dcdeckbuilding.com/scans/Cyborg%20MC%20TTG.jpg", "set": "Teen Titans Go!"},
 {"name": "Raven", "tier": "2", "url": "https://www.dcdeckbuilding.com/scans/Raven%20MC%20TTG.jpg", "set": "Teen Titans Go!"},
 {"name": "Robin", "tier": "2", "url": "https://www.dcdeckbuilding.com/scans/Robin%20MC%20TTG.jpg", "set": "Teen Titans Go!"},
-{"name": "Starfire", "tier": "2", "url": "https://www.dcdeckbuilding.com/scans/Starfire%20MC%20TTG.jpg", "set": "Teen Titans Go!"},
+{"name": "Starfire", "tier": "2", "url": "https://www.dcdeckbuilding.com/scans/Starfire%20MC%20TTG.jpg", "set": "Teen Titans Go!"}]
